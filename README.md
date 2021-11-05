@@ -1,8 +1,10 @@
 # Data Mining 2
 Collection of python notebooks of a group project in data mining, exploring:  
-* advanced tecniques of clustering  
-* transactional clustering  
+* Advanced tecniques of clustering  
+* Transactional clustering  
 * Sequential Pattern Mining  
 * Time Series Analysis  
 * Classification  
-* neural network,Outlier Detection, Regression, and more...
+* Neural Network  
+* Outlier Detection  
+* Regression  
