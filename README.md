@@ -15,6 +15,6 @@ Below is the list of files along with its purpose.
 * Sequential Pattern Mining: Convert the time series into a discrete format (e.g., by using SAX) and extract the most frequent sequential patterns (of at least length 3/4) using different values of support, then discuss the most interesting sequences.
 * Time Series Analysis  
 * Advanced Classification Methods(Naive Bayes Classifier, Logistic Regression, Rule-based Classifiers, Support Vector Machines, Neural Networks, Ensemble Methods).
-Evaluate each classifier with the techniques presented in Module 1 (accuracy, precision, recall, F1-score, ROC curve)
+Evaluate each classifier with the following techniques (accuracy, precision, recall, F1-score, ROC curve)
 * Imbalanced Learning and Anomaly Detection
 * [Explainability.ipynb](Explainability.ipynb): To use one or more explanation methods (e.g., LIME, LORE, SHAP, etc.) to illustrate the reasons for the classification in one of the steps of the previous tasks. 
