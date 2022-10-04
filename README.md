@@ -15,3 +15,4 @@ Collection of python notebooks of a group project in data mining, exploring:
 * Advanced Classification Methods(Naive Bayes Classifier, Logistic Regression, Rule-based Classifiers, Support Vector Machines, Neural Networks, Ensemble Methods).
 Evaluate each classifier with the techniques presented in Module 1 (accuracy, precision, recall, F1-score, ROC curve)
 * Imbalanced Learning and Anomaly Detection
+* Explainability: Try to use one or more explanation methods (e.g., LIME, LORE, SHAP, etc.) to illustrate the reasons for the classification in one of the steps of the previous tasks.
